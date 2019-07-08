@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>javaScrpit test 1</title>
+</head>
+<body>
+
+</body>
+<script type="text/javascript">
+   for(var i=0;i<=20;i++){
+       if(i%2==0){
+           console.log(i+"是偶数");
+       }else{
+           console.log(i+"是奇数");
+       }
+   }
+</script>
+
+</html>
